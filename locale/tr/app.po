@@ -1,0 +1,740 @@
+# Turkish translations for app package.
+# Copyright (C) 2016 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the app package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: app 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-05-28 22:05+0300\n"
+"PO-Revision-Date: 2016-05-28 22:05+0300\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Turkish\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"\n"
+
+msgid "Address was successfully created."
+msgstr "Adres başarıyla oluşturuldu."
+
+msgid "Address was successfully updated."
+msgstr "Adres başarıyla güncellendi."
+
+msgid "Address was successfully destroyed."
+msgstr "Adres başarıyla silindi."
+
+msgid "This product is out of stock"
+msgstr "Bu ürün stoklarda kalmadı"
+
+msgid "You are not authorized to perform this action"
+msgstr "Bu işlemi gerçekleştirmek için yetkiniz yok"
+
+msgid "Your cart is empty!"
+msgstr "Sepetiniz boş!"
+
+msgid "Cart was successfully destroyed."
+msgstr "Sepetiniz başarıyla boşaltıldı"
+
+msgid "Something went wrong"
+msgstr "Bir şeyler yanlış gitti"
+
+msgid "Category was successfully created."
+msgstr "Kategori başarıyla oluşturuldu."
+
+msgid "Category was successfully updated."
+msgstr "KAtegori başarıyla güncellendi"
+
+msgid "Category was successfully destroyed."
+msgstr "Kategori başarıyla silindi"
+
+msgid "%s x %s added to your cart!"
+msgstr "%s x %s sepetinize eklendi!"
+
+msgid "Thank you for your order!"
+msgstr "iparişiniz için teşekür ederiz!"
+
+msgid "Can not change order status"
+msgstr "Sipariş durumu değiştirilemiyor"
+
+msgid "Payment was successfully created."
+msgstr "Ödeme başarıyla oluşturuldu."
+
+msgid "Payment was successfully updated."
+msgstr "Ödeme başarıyla güncellendi."
+
+msgid "Payment was successfully destroyed."
+msgstr "Ödeme başarıyla silindi."
+
+msgid "Please create a category first."
+msgstr "Lütfen önce kategori oluşturunuz."
+
+msgid "Product was successfully created."
+msgstr "Ürün başarıyla oluşturuldu."
+
+msgid "Product was successfully updated."
+msgstr "Ürün başarıyla güncellendi."
+
+msgid "Product was successfully destroyed."
+msgstr "Ürün başarıyla silindi."
+
+msgid "Shipment was successfully created."
+msgstr "Kargo başarıyla oluşturuldu."
+
+msgid "Shipment was successfully updated."
+msgstr "Kargo başarıyla güncellendi."
+
+msgid "Shipment was successfully destroyed."
+msgstr "Kargo başarıyla silindi."
+
+msgid "Accepted"
+msgstr "Beklemede"
+
+msgid "In progress"
+msgstr "Onaylı"
+
+msgid "Shipped"
+msgstr "Gönderilen"
+
+msgid "Completed"
+msgstr "Tamamlanan"
+
+msgid "Search"
+msgstr "Ara"
+
+msgid "Order #%d"
+msgstr "Spariş #%d"
+
+msgid "Shipping and Billing address"
+msgstr "Kargo ve fatura adresi"
+
+msgid "Billing address"
+msgstr "Fatura adresi"
+
+msgid "Shipping address"
+msgstr "Kargo adresi"
+
+msgid "Price"
+msgstr "Fiyat"
+
+msgid "Quantity"
+msgstr "Adet"
+
+msgid "Title"
+msgstr "Adı"
+
+msgid "Total"
+msgstr "Genel toplam"
+
+msgid "Subtotal"
+msgstr "Ara toplam"
+
+msgid "Shipment"
+msgstr "Kargo"
+
+msgid "incl. VAT"
+msgstr "KDV dahil"
+
+msgid "Thank you for your business!"
+msgstr "Bizimle çalıştığınız için teşekkür ederiz."
+
+msgid "Name"
+msgstr "İsim"
+
+msgid "Email"
+msgstr "Eposta"
+
+msgid "Password"
+msgstr "Şifre"
+
+msgid "Leave these fields blank if you don't want to change your password."
+msgstr "Şifrenizi değiştirmek istiyorsanız bu alanı doldurmanız gerekmektedir."
+
+msgid "Password confirmation"
+msgstr "Şifre onayı"
+
+msgid "Current password"
+msgstr "Şimdiki şifre"
+
+msgid "You must enter your current password to make changes."
+msgstr "Değişiklik yapmanız için mevcut şifreyi girmeniz gerekmektedir."
+
+msgid "Update account"
+msgstr "Hesabı güncelle"
+
+msgid "Edit"
+msgstr "Düzenle"
+
+msgid "Destroy"
+msgstr "Sil"
+
+msgid "Your addresses list is empty"
+msgstr "Adresiniz yok"
+
+msgid "Status"
+msgstr "Durum"
+
+msgid "Date"
+msgstr "Tarih"
+
+msgid "Payment method"
+msgstr "Ödeme şekli"
+
+msgid "Your orders list is empty"
+msgstr "Sipariş bulunmamaktadır"
+
+msgid "Orders"
+msgstr "sipariş"
+
+msgid "Addresses"
+msgstr "adres"
+
+msgid "New address"
+msgstr "Yeni ades"
+
+msgid "Account"
+msgstr "Hesap"
+
+msgid "This address is referenced by an order"
+msgstr "Bu adres siparişleriniz için referanstır"
+
+msgid "%s address"
+msgstr "%s adres"
+
+msgid "Recipient"
+msgstr "Alıcı"
+
+msgid "City"
+msgstr "Şehir"
+
+msgid "Street"
+msgstr "Sokak"
+
+msgid "Save"
+msgstr "Kaydet"
+
+msgid "Back"
+msgstr "Geri"
+
+msgid "Address"
+msgstr "Adres"
+
+msgid "Save changes"
+msgstr "Değişiklikleri kaydet"
+
+msgid "Cancel"
+msgstr "İptal"
+
+msgid "User"
+msgstr "kullanıcı"
+
+msgid "Image"
+msgstr "Resim"
+
+msgid "VAT"
+msgstr "KDV"
+
+msgid "Total exc. shipping"
+msgstr "Kargo dahil"
+
+msgid "Carts"
+msgstr "alışveriş"
+
+msgid "Purge stale carts"
+msgstr "Alışveriş geçmişini sil"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Created at"
+msgstr "Oluşturulma tarihi"
+
+msgid "Updated at"
+msgstr "Güncellenme tarihi"
+
+msgid "Product count"
+msgstr "Ürün adeti"
+
+msgid "Your Cart"
+msgstr "Sepetiniz"
+
+msgid "Are you sure?"
+msgstr "Emin misiniz?"
+
+msgid "Empty cart"
+msgstr "Sepeti Boşalt"
+
+msgid "Continue shopping"
+msgstr "Alışverişe devam"
+
+msgid "Proceed to Checkout"
+msgstr "Devam et ve bitir"
+
+msgid "%s category"
+msgstr "%s kategori"
+
+msgid "Categories"
+msgstr "kategori"
+
+msgid "New category"
+msgstr "Yeni kategori"
+
+msgid "Category"
+msgstr "Kategori"
+
+msgid "Title %s:"
+msgstr "Adı %s"
+
+msgid "Products:"
+msgstr "Ürünler:"
+
+msgid "New product"
+msgstr "Yeni ürün"
+
+msgid "Reset password"
+msgstr "Şifre sıfırla"
+
+msgid "Resend confirmation instructions"
+msgstr "Onay talimatını tekrar gönder"
+
+msgid "We'll resend the confirmation instructions."
+msgstr "Onay talimatı gönderilmiştir."
+
+msgid "Set your password"
+msgstr "Şifrenizi ayarlayınız"
+
+msgid "New password"
+msgstr "Yeni şifre"
+
+msgid "Confirm new password"
+msgstr "Yeni şifreyi onayla"
+
+msgid "Send invitation"
+msgstr "Davetiye gönder"
+
+msgid "Send an invitation"
+msgstr "Bir davetiye gönder"
+
+msgid "We'll send the invitation instructions."
+msgstr "Davetiye talimatı gönderildi"
+
+msgid "Welcome"
+msgstr "Hoşgeldiniz"
+
+msgid "You can confirm your account email through the link below:"
+msgstr "Aşağıgaki bağlantıyla eposta adresine onay mesajı gönderebilirsin:"
+
+msgid "Confirm my account"
+msgstr "Hesabımı onayla"
+
+msgid "Hello"
+msgstr "Merhaba"
+
+msgid ""
+"Someone has requested a link to change your password. You can do this through "
+"the link below."
+msgstr ""
+"Jemand hat einen Link um Kennwort zu ändern angefordert. Sie können dies durch"
+" den folgenden Link tun."
+
+msgid "Change my password"
+msgstr "Şifremi değiştir"
+
+msgid "If you didn't request this, please ignore this email."
+msgstr "Böyle bir talimat vermediyseniz bu mail görmezden gelebilirsiniz."
+
+msgid ""
+"Your password won't change until you access the link above and create a new on"
+"e."
+msgstr ""
+"Ihr Passwort wird nicht geändert, bis Sie auf den Link oben zugreifen und eine"
+" neue erstellen."
+
+msgid ""
+"Your account has been locked due to an excessive number of unsuccessful sign i"
+"n attempts."
+msgstr ""
+"Ihr Konto wurde aufgrund einer übermäßigen Anzahl fehlgeschlagener Anmeldevers"
+"uche gesperrt."
+
+msgid "Click the link below to unlock your account:"
+msgstr "Hesabınızı açmak için aşağıdaki bağlantıyı tıklayın:"
+
+msgid "Unlock my account"
+msgstr "Hesabımın kilidini aç"
+
+msgid "Change your password"
+msgstr "Şifremi değiştir"
+
+msgid "We'll send password reset instructions."
+msgstr "Parola sıfırlama talimatı gönderildi."
+
+msgid "Sign-up"
+msgstr "Kaydol"
+
+msgid "Didn't receive confirmation instructions?"
+msgstr "Onay talimatları almadınız mı?"
+
+msgid "Confirm Password"
+msgstr "Şifre onay"
+
+msgid "Sign up"
+msgstr "Kaydol"
+
+msgid "Already have an account?"
+msgstr "Zaten kayıtlı mısınız?"
+
+msgid "Sign in"
+msgstr "Oturum aç"
+
+msgid "Sign-in"
+msgstr "Oturum aç"
+
+msgid "Remember me"
+msgstr "Beni hatırla"
+
+msgid "Don't have an account?"
+msgstr "Bir hesabınız yok mu?"
+
+msgid "Forgot your password?"
+msgstr "Şifremi unuttum"
+
+msgid "Didn't receive unlock instructions?"
+msgstr "Kilit açma talimatı almadınız mı?"
+
+msgid "Cart"
+msgstr "Sepet"
+
+msgid "My Account"
+msgstr "Hesabım"
+
+msgid "Sign out"
+msgstr "Oturumu kapat"
+
+msgid "Products"
+msgstr "ürün"
+
+msgid "Users"
+msgstr "kullanıcı"
+
+msgid "Shipments"
+msgstr "kargo"
+
+msgid "Payments"
+msgstr "ödeme"
+
+msgid "Hi %s,"
+msgstr "Merhaba %s, "
+
+msgid "thank you for your order."
+msgstr "Siparişiniz için teşekkür ederiz."
+
+msgid "Your order has been received and will be processed shortly."
+msgstr "Siparişiniz alındı en kısa sürede işlenecektir."
+
+msgid ""
+"If you need to contact us about your order please send us an email. You may al"
+"so call us at (0123) 45678"
+msgstr ""
+"Wenn Sie mit uns über Ihren Auftrag sprechen wollen, senden Sie uns bitte eine"
+" Email. Sie können uns telefonisch erreichen unter: (0123) 45678"
+
+msgid "Add new address"
+msgstr "Yeni adres ekle"
+
+msgid "billing address is same as shipping address"
+msgstr "Fatura adresi kargo adresi ile aynıdır"
+
+msgid "Your addresses list is empty, please add at least one address"
+msgstr "Hiç adresiniz yok, en az bir adres eklemelisiniz"
+
+msgid "Back to cart"
+msgstr "Sepete dön"
+
+msgid "Next"
+msgstr "İleri"
+
+msgid "Shipping method"
+msgstr "Kargo seçeneği"
+
+msgid "Order summary"
+msgstr "Sipariş özeti"
+
+msgid "Place order"
+msgstr "Siparişi Ver"
+
+msgid "Customer"
+msgstr "Alıcı"
+
+msgid "Payment"
+msgstr "Ödeme"
+
+msgid "Order date"
+msgstr "Sipariş tarihi"
+
+msgid "Product"
+msgstr "Ürün"
+
+msgid "%s payment method"
+msgstr "%s ödeme şekli"
+
+msgid "Payment methods"
+msgstr "Ödeme seçenekleri"
+
+msgid "New payment"
+msgstr "Yeni ödeme"
+
+msgid "%s product"
+msgstr "%s ürün"
+
+msgid "Select category"
+msgstr "Kategori seçiniz"
+
+msgid "Description"
+msgstr "Açıklama"
+
+msgid "EAN"
+msgstr "EAN"
+
+msgid "EAN is composed of category id prefix and next product id"
+msgstr "EAN kategori numarasını önek alarak ve sonraki ürün kimliği ile oluşur"
+
+msgid "Please be patient the image upload may take a few seconds..."
+msgstr "Resim yükleme birkaç saniye sürebilir lütfen sabırlı olun..."
+
+msgid "New"
+msgstr "Yeni"
+
+msgid "EAN: %s"
+msgstr "EAN: %s"
+
+msgid "VAT: %s"
+msgstr "KDV: %s"
+
+msgid "Available: %d of %d"
+msgstr "Kullanılabilir: %d - %d"
+
+msgid "%s shipping method"
+msgstr "%s kargo türü"
+
+msgid "Shipping methods"
+msgstr "Kargo türleri"
+
+msgid "New shipment"
+msgstr "Yeni kargo"
+
+msgid "Default"
+msgstr "Varsayılan"
+
+msgid "Provider"
+msgstr "Sahibi"
+
+msgid "Fee"
+msgstr "Ücret"
+
+msgid "Out of stock"
+msgstr "Stokta kalmadı"
+
+msgid "Add to cart"
+msgstr "Sepete ekle"
+
+msgid "Sorry, the product was not found."
+msgstr "Maalesef ürün bulunamadı."
+
+msgid "Sort"
+msgstr "Tür"
+
+msgid "View"
+msgstr "Görünüm"
+
+msgid "Per page"
+msgstr "Sayfa başına"
+
+msgid "All categories"
+msgstr "Tüm Kategoriler"
+
+msgid "Price:"
+msgstr "Fiyat: "
+
+msgid "Pending invitation"
+msgstr "Bekleyen davetiye"
+
+msgid "Invite new user"
+msgstr "Yeni kullanıcı davet et"
+
+msgid "Role"
+msgstr "Rol"
+
+msgid "Last sign in"
+msgstr "Son girilme"
+
+msgid "Sign in count"
+msgstr "Oturum açma sayısı"
+
+msgid "Pending user invitations"
+msgstr "Kullanıcıyı bekleyen davetiyeler"
+
+msgid "Sent at"
+msgstr "Gönderilecek"
+
+msgid "Invited by"
+msgstr "Davet eden kişi"
+
+msgid "Token"
+msgstr "Simge"
+
+msgid "No pending invitations"
+msgstr "Bekleyen hiçbir davetiye yok"
+
+msgid "E-Shop"
+msgstr "E-Ticaret"
+
+msgid "Checkout"
+msgstr "Çıkış Yap"
+
+msgid "Address|City"
+msgstr "Adres|Şehir"
+
+msgid "Address|Phone"
+msgstr "Adres|Telefon"
+
+msgid "Address|Recipient"
+msgstr "Adres|Alıcı"
+
+msgid "Address|Street"
+msgstr "Adres|Sokak"
+
+msgid "Address|Zip code"
+msgstr "Adres|Posta Kodu"
+
+msgid "Category|Description"
+msgstr "Kategori|Açıklaması"
+
+msgid "Category|Products count"
+msgstr "Kategori|Ürün sayısı"
+
+msgid "Category|Title"
+msgstr "Kategori|Adı"
+
+msgid "Globalize/active record/translation"
+msgstr "Globalize/active record/translation"
+
+msgid "Globalize::ActiveRecord::Translation|Locale"
+msgstr "Globalize::ActiveRecord::Translation|Yerel"
+
+msgid "Globalize::ActiveRecord::Translation|Title"
+msgstr "Globalize::ActiveRecord::Translation|Başlık"
+
+msgid "Line item"
+msgstr "Ürün"
+
+msgid "LineItem|Price"
+msgstr "Ürün|Fiyatı"
+
+msgid "LineItem|Quantity"
+msgstr "Ürün|Adeti"
+
+msgid "Order"
+msgstr "Sipariş"
+
+msgid "Order|Status"
+msgstr "Sipariş|Durumu"
+
+msgid "Payment|Title"
+msgstr "Ödeme|Başlığı"
+
+msgid "Product|Description"
+msgstr "Ürün|Açıklaması"
+
+msgid "Product|Ean"
+msgstr "Ürün|EAN"
+
+msgid "Product|Image"
+msgstr "Ürün|Resmi"
+
+msgid "Product|Price"
+msgstr "Ürün|Fiyatı"
+
+msgid "Product|Quantity"
+msgstr "Ürün|Miktarı"
+
+msgid "Product|Title"
+msgstr "Ürün|Başlığı"
+
+msgid "Shipment|Default"
+msgstr "Kargo|Varsayılan"
+
+msgid "Shipment|Fee"
+msgstr "Kargo|Ücreti"
+
+msgid "Shipment|Provider"
+msgstr "Kargo|Sahibi"
+
+msgid "Shipment|Title"
+msgstr "Kargo|Başlığı"
+
+msgid "User|Confirmation sent at"
+msgstr "Kullanıcı|Onay gönderildi"
+
+msgid "User|Confirmation token"
+msgstr "Kullanıcı|Onay simgesi"
+
+msgid "User|Confirmed at"
+msgstr "Kullanıcı|Onaylandı"
+
+msgid "User|Current sign in at"
+msgstr "Kullanıcı|Mevcut durumu"
+
+msgid "User|Current sign in ip"
+msgstr "Kullanıcı|Mevcut ip"
+
+msgid "User|Email"
+msgstr "Kullanıcı|Eposta"
+
+msgid "User|Encrypted password"
+msgstr "Kullanıcı|Şifreli parola"
+
+msgid "User|Integer"
+msgstr "Kullanıcı|Tamsayı"
+
+msgid "User|Last sign in at"
+msgstr "Kullanıcı|Son giriş"
+
+msgid "User|Last sign in ip"
+msgstr "Kullanıcı|Son giriş ip"
+
+msgid "User|Name"
+msgstr "Kullanıcı|Adı"
+
+msgid "User|Remember created at"
+msgstr "Kullanıcı|Hatırlatma"
+
+msgid "User|Reset password sent at"
+msgstr "Kullanıcı|Şifre sıfırlama"
+
+msgid "User|Reset password token"
+msgstr "Kullanıcı|Şifre sıfırlama simgesi"
+
+msgid "User|Role"
+msgstr "Kullanıcı|Rol"
+
+msgid "User|Sign in count"
+msgstr "Kullanıcı|Giriş sayısı"
+
+msgid "User|String"
+msgstr "Kullanıcı|String"
+
+msgid "User|Unconfirmed email"
+msgstr "Kullanıcı|Onaylanmayan eposta"
+
+msgid "Vat"
+msgstr "KDV"
+
+msgid "Vat|Rate"
+msgstr "KDV|Oran"
+
+msgid "Vat|Title"
+msgstr "KDV|Başlık"

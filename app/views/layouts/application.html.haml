@@ -1,0 +1,25 @@
+!!!
+%html
+  %head
+    %title E-Ticaret
+    %meta{ name: :description, content: 'E-Ticaret' }
+    %meta{ content: 'width=device-width, initial-scale=1', name: 'viewport' }
+    = stylesheet_link_tag "application", media: "all", 'data-turbolinks-track' => true
+    = javascript_include_tag 'application', 'data-turbolinks-track' => true
+    = csrf_meta_tags
+
+  %body
+    #wrap
+      %header
+        = render 'layouts/navigation'
+      %main
+        .container
+          = render 'layouts/messages'
+          = breadcrumbs style: :bootstrap
+          = yield
+
+
+    %footer
+      .container
+        .col-md-12.no-padding
+          &copy; Levent Sencer ŞAHİN

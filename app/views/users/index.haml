@@ -1,0 +1,14 @@
+%h4.page-header.no-margin
+  = _('Users')
+
+.panel.panel-default
+  .panel-body
+    %table.table.table-hover
+      %thead
+        %th= _('Role')
+        %th= _('Name')
+        %th= _('Email')
+        %th{ width: '25%'}
+          = ransack_search_form_for(users_path, :name_or_email_cont)
+      %tbody{id: controller_name}
+        = render partial: controller_name
